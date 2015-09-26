@@ -55,7 +55,7 @@
                                 <rect key="frame" x="359" y="74.5" width="102.5" height="123.5"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="✖️"/>
+                                <state key="normal" title="×"/>
                                 <connections>
                                     <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0bJ-oc-OYw"/>
                                 </connections>
@@ -64,7 +64,7 @@
                                 <rect key="frame" x="359" y="206" width="102.5" height="123.5"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="➗"/>
+                                <state key="normal" title="÷"/>
                                 <connections>
                                     <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dSr-F7-ypI"/>
                                 </connections>
@@ -73,7 +73,7 @@
                                 <rect key="frame" x="359" y="337.5" width="102.5" height="123"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="➕"/>
+                                <state key="normal" title="+"/>
                                 <connections>
                                     <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PX8-BF-WKl"/>
                                 </connections>
@@ -151,7 +151,7 @@
                                 <rect key="frame" x="359" y="468.5" width="102.5" height="123.5"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="➖"/>
+                                <state key="normal" title="−"/>
                                 <connections>
                                     <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FJw-KE-Nhz"/>
                                 </connections>
@@ -178,7 +178,7 @@
                                 <rect key="frame" x="469.5" y="468.5" width="102.5" height="123.5"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <state key="normal" title="✔️"/>
+                                <state key="normal" title="√"/>
                                 <connections>
                                     <action selector="operate:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FJW-oO-HfE"/>
                                 </connections>
